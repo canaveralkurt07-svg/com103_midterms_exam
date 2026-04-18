@@ -88,7 +88,7 @@ print("   WEEKLY EXPENSE -- CATEGORIES")
 print("==========================================")
 for num, info in categories.items():
     print(f" {num}. {info[0]:<20} [e.g. {info[1]}]")
-print("============================================)
+print("============================================")
 
 logged_expenses = []
 
